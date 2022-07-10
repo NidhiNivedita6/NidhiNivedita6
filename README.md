@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 * 🌍  I'm based in Mumbai, India.
 * ✉️  You can contact me at [nidhi.nivedita63@gmail.com](mailto:nidhi.nivedita63@gmail.com)
-* 🚀  I'm currently working on [Click-Sonic](http://https://github.com/NidhiNivedita6/Click-Sonic)
+* 🚀  I'm currently working on [Click-Sonic](https://github.com/NidhiNivedita6/Click-Sonic)
 * 🤝  I'm open to collaborating on any interesting project.
 
 ### Skills
