@@ -28,9 +28,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ### Badges
 
-<b>My GitHub Stats</b>
+<!-- <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/NidhiNivedita6"><img src="https://activity-graph.herokuapp.com/graph?username=NidhiNivedita6&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/NidhiNivedita6"><img src="https://activity-graph.herokuapp.com/graph?username=NidhiNivedita6&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
 
 <b>Top Repositories</b>
 
